@@ -1,0 +1,114 @@
+{
+    "bestMatches": [
+        {
+            "1. symbol": "CAR",
+            "2. name": "Avis Budget Group Inc",
+            "3. type": "Equity",
+            "4. region": "United States",
+            "5. marketOpen": "09:30",
+            "6. marketClose": "16:00",
+            "7. timezone": "UTC-04",
+            "8. currency": "USD",
+            "9. matchScore": "1.0000"
+        },
+        {
+            "1. symbol": "CARA",
+            "2. name": "Cara Therapeutics Inc",
+            "3. type": "Equity",
+            "4. region": "United States",
+            "5. marketOpen": "09:30",
+            "6. marketClose": "16:00",
+            "7. timezone": "UTC-04",
+            "8. currency": "USD",
+            "9. matchScore": "0.8571"
+        },
+        {
+            "1. symbol": "CAR.FRK",
+            "2. name": "Carrefour SA",
+            "3. type": "Equity",
+            "4. region": "Frankfurt",
+            "5. marketOpen": "08:00",
+            "6. marketClose": "20:00",
+            "7. timezone": "UTC+02",
+            "8. currency": "EUR",
+            "9. matchScore": "0.7500"
+        },
+        {
+            "1. symbol": "CAR.LON",
+            "2. name": "Carclo plc",
+            "3. type": "Equity",
+            "4. region": "United Kingdom",
+            "5. marketOpen": "08:00",
+            "6. marketClose": "16:30",
+            "7. timezone": "UTC+01",
+            "8. currency": "GBX",
+            "9. matchScore": "0.7500"
+        },
+        {
+            "1. symbol": "CARAF",
+            "2. name": "Caracara Silver Inc",
+            "3. type": "Equity",
+            "4. region": "United States",
+            "5. marketOpen": "09:30",
+            "6. marketClose": "16:00",
+            "7. timezone": "UTC-04",
+            "8. currency": "USD",
+            "9. matchScore": "0.7500"
+        },
+        {
+            "1. symbol": "CARBX",
+            "2. name": "COLUMBIA ABSOLUTE RETURN CURRENCY AND INCOME FUND CLASS B",
+            "3. type": "Mutual Fund",
+            "4. region": "United States",
+            "5. marketOpen": "09:30",
+            "6. marketClose": "16:00",
+            "7. timezone": "UTC-04",
+            "8. currency": "USD",
+            "9. matchScore": "0.7500"
+        },
+        {
+            "1. symbol": "CARCF",
+            "2. name": "C3 Metals Inc",
+            "3. type": "Equity",
+            "4. region": "United States",
+            "5. marketOpen": "09:30",
+            "6. marketClose": "16:00",
+            "7. timezone": "UTC-04",
+            "8. currency": "USD",
+            "9. matchScore": "0.7500"
+        },
+        {
+            "1. symbol": "CARCX",
+            "2. name": "COLUMBIA ABSOLUTE RETURN CURRENCY AND INCOME FUND ADVISOR CLASS",
+            "3. type": "Mutual Fund",
+            "4. region": "United States",
+            "5. marketOpen": "09:30",
+            "6. marketClose": "16:00",
+            "7. timezone": "UTC-04",
+            "8. currency": "USD",
+            "9. matchScore": "0.7500"
+        },
+        {
+            "1. symbol": "CARCY",
+            "2. name": "China Resources Cement Holdings Ltd",
+            "3. type": "Equity",
+            "4. region": "United States",
+            "5. marketOpen": "09:30",
+            "6. marketClose": "16:00",
+            "7. timezone": "UTC-04",
+            "8. currency": "USD",
+            "9. matchScore": "0.7500"
+        },
+        {
+            "1. symbol": "CAR.DEX",
+            "2. name": "Carrefour SA",
+            "3. type": "Equity",
+            "4. region": "XETRA",
+            "5. marketOpen": "08:00",
+            "6. marketClose": "20:00",
+            "7. timezone": "UTC+02",
+            "8. currency": "EUR",
+            "9. matchScore": "0.6667"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+.search {
+    width: 80%;
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+}
+.search-input {
+    margin-top: 105px;
+    display: flex;
+    width: 100%;
+  }
+  
+  .search input {
+
+    background-color: #222;
+    color: #ddd;
+    border: 0;
+    border-radius: 25vh;
+    font-size: 18px;
+    padding: 15px 50px;
+    height: 30px;
+    width: 100%;
+  }
+  
+  .input-text {
+      padding: 100px;
+  }
+
+  .search-icon {
+    height: 60px;
+    width: 50px;
+    position: absolute;
+    right: 10px;
+    display: grid;
+    place-items: center;
+  }
+  
+  input:focus {
+    outline: none;
+  }
+  .search-icon svg {
+    font-size: 35px;
+  }
+  
+  .dataResult {
+    margin-top: 5px;
+    width: 100%;
+    height: 200px;
+    background-color: #222;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    overflow: hidden;
+    overflow-y: auto;
+  }
+  
+  .dataResult::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .dataResult .dataItem {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    color: white;
+    background-color: #222;
+
+  }
+  
+  .dataItem {
+    padding-left: 10px;
+    font-size: 1rem;
+    position: relative;
+  }
+
+  .dataItem:hover {
+    background-color: #444;
+  }
+
+  .dataItem > span {
+    position: absolute;
+    right: 30px;
+    overflow: hidden;
+  }
+
+  a {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    background-color: lightgrey;
+  }
+  
+  #clearBtn {
+    cursor: pointer;
+  }

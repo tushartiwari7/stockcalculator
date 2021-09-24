@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+
+.App {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  color: white;
+  position: relative;
+}
+.container {
+  margin: 5%;
+  width: 90vw;
+  height: max-content;
+  min-height: 500px;
+  background: #66263f;
+  border-radius: 5px;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.row > svg{
+  width: 2.5em;
+  height: 2.5em;
+}
+.highlighted {
+  color: #0070f3;
+  text-decoration: none;
+  font-size: 1.15em;
+  font-family: 'Merienda', cursive;
+}
+.input-date {
+  padding: 1em;
+  font-size: 16px;
+  border-radius: 2rem;
+  display: flex;
+  width: fit-content;
+  margin: 4rem auto 2rem;
+  padding: 1.5rem 2rem;
+}
+.title {
+  line-height: 1.25;
+  font-size: 2rem;
+  text-align: left;
+  margin: 2rem;
+}
+.helper {
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+.btn {
+    padding: 0.5rem 2rem;
+    background-color: #D6EDFF;
+    color: #478978;
+    border-radius: 1.5rem;
+    font-size: 1rem;
+    font-weight: 900;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 1rem;
+    font-family: 'Cinzel',serif;
+    text-align: left!important;
+}
+
+.col {
+  width: 50%;
+  margin: 5% 8%;
+}
+
+.description {
+  line-height: 1.5;
+  font-size: 1.5rem;
+}
+.hero-image {
+  width: 100%;
+  min-height: 80%;
+}
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.output > p {
+  padding: 0 200px;
+  line-height: 2.5em;
+}
+.output >p > span {
+  background-color: #D6EDFF;
+  font-family: 'Courier New', Courier, monospace;
+  border-radius: 5px;
+  font-weight: 600;
+  margin: 0px 10px;
+  padding: 0.2rem 0.5rem;
+}
+.profit {
+  background-color: #92C581!important;
+  color: green;
+}
+.loss {
+  background-color: #F29391!important;
+  color: red;
+}
+footer {
+  width: 100%;
+  background-color: #66263f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  height: fit-content;
+  position: absolute;
+  bottom: 0;
+}
+footer > ul {
+  width: 100%;
+  padding: 0px;
+  justify-content: space-evenly;
+  margin: 10px;
+
+}
+footer > ul > li {
+  justify-content: space-evenly;
+  display: inline;
+  margin: 1rem;
+  font-size: smaller;
+}
+footer > ul > li > a {
+  color: #d3faf0;
+  padding: 10px;
+}
+footer > ul > li > a:hover {
+  color: #333;
+  background-color: #F29391;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
